@@ -1,0 +1,2 @@
+# setting
+about piksel setting
