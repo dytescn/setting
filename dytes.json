@@ -7,7 +7,7 @@
   "type": "web",
   "dependencies-web": {},
   "exports": {
-    "./assets/project_setting_0_0_1.js": "setting.js",
+    "./assets/project_info_0_0_1.js": "info.js",
     "./assets/project_design_0_0_1.js": "design.js",
     "./src/setup.ts": "setup.ts"
   },

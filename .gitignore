@@ -12,3 +12,4 @@ coverage/
 node_modules
 publish*
 assets/*
+deno.lock
