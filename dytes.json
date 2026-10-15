@@ -1,6 +1,6 @@
 {
   "name": "setting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "setting for piksel",
   "keywords": ["setting"],
   "author": "funxdata",
@@ -8,7 +8,6 @@
   "dependencies-web": {},
   "exports": {
     "./assets/project_info_0_0_1.js": "info.js",
-    "./assets/project_design_0_0_1.js": "design.js",
     "./src/setup.ts": "setup.ts"
   },
   "init":["./setup.ts"]
